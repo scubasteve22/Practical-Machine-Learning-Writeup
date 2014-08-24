@@ -22,3 +22,5 @@ pml-training.csv                - Training data provided as part of the assignme
 README.md                       - This file
 
 submission                      - Folder with the output for the Submission phase
+
+END
